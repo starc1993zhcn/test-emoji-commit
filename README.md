@@ -74,3 +74,4 @@
 | :stethoscope: | 支持 |
 | :bricks: | 不支持 |
 | :technologist: | 不支持 |
+| :money_with_wings: | 支持 |
