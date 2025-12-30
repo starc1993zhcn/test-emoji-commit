@@ -14,3 +14,4 @@
 | :memo: | 支持 |
 | :rocket: | 支持 |
 | :lipstick: | 支持 |
+| :white_check_mark: | 支持 |
