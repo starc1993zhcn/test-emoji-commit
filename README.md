@@ -67,3 +67,4 @@
 | :wastebasket: | 不支持 |
 | :passport_control: | 支持 |
 | :adhesive_bandage: | 不支持 |
+| :monocle_face: | 不支持 |
