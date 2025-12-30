@@ -37,3 +37,4 @@
 | :rewind: | 支持 |
 | :twisted_rightwards_arrows: | 支持 |
 | :package: | 支持 |
+| :alien: | 支持 |
