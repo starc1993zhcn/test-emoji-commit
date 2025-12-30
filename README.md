@@ -19,3 +19,5 @@
 | :closed_lock_with_key: | 支持 |
 | :bookmark: | 支持 |
 | :rotating_light: | 支持 |
+| :construction: | 支持 |
+| :green_heart: | 支持 |
