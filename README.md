@@ -71,3 +71,4 @@
 | :coffin: | 不支持 |
 | :test_tube: | 不支持 |
 | :necktie: | 支持 |
+| :stethoscope: | 支持 |
