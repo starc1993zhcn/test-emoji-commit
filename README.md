@@ -60,3 +60,4 @@
 | :alembic: | 不支持 | 支持 |
 | :mag: | 支持 |
 | :label: | 不支持 | 支持 |
+| :seedling: | 支持 |
