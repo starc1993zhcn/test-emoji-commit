@@ -50,3 +50,4 @@
 | :loud_sound: | 支持 |
 | :mute: | 支持 |
 | :busts_in_silhouette: | 支持 |
+| :children_crossing: | 支持 |
