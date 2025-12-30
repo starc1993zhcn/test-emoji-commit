@@ -42,3 +42,4 @@
 | :page_facing_up: | 支持 |
 | :boom: | 支持 |
 | :bento: | 支持 |
+| :wheelchair: | 支持 |
