@@ -57,3 +57,4 @@
 | :egg: | 支持 |
 | :see_no_evil: | 支持 |
 | :camera_flash: | 不支持 |
+| :alembic: | 不支持 | 支持 |
