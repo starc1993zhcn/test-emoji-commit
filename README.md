@@ -11,3 +11,4 @@
 | :bug: | 支持 |
 | :ambulance: | 支持 |
 | :sparkles: | 支持 |
+| :memo: | 支持 |
