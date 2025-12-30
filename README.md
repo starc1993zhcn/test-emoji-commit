@@ -65,3 +65,4 @@
 | :goal_net: | 不支持 |
 | :dizzy: | 支持 |
 | :wastebasket: | 不支持 |
+| :passport_control: | 支持 |
