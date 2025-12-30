@@ -16,3 +16,4 @@
 | :lipstick: | 支持 |
 | :white_check_mark: | 支持 |
 | :lock: | 支持 |
+| :closed_lock_with_key: | 支持 |
