@@ -30,3 +30,4 @@
 | :heavy_plus_sign: | 支持 |
 | :heavy_minus_sign: | 支持 |
 | :wrench: | 支持 |
+| :hammer: | 支持 |
