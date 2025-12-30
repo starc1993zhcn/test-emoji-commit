@@ -73,3 +73,4 @@
 | :necktie: | 支持 |
 | :stethoscope: | 支持 |
 | :bricks: | 不支持 |
+| :technologist: | 不支持 |
