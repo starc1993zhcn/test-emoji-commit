@@ -12,3 +12,4 @@
 | :ambulance: | 支持 |
 | :sparkles: | 支持 |
 | :memo: | 支持 |
+| :rocket: | 支持 |
