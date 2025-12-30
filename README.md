@@ -53,3 +53,4 @@
 | :children_crossing: | 支持 |
 | :building_construction: | 不支持 | 支持 |
 | :iphone: | 支持 |
+| :clown_face: | 不支持 | 支持 |
