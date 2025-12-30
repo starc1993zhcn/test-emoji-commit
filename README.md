@@ -55,3 +55,4 @@
 | :iphone: | 支持 |
 | :clown_face: | 不支持 | 支持 |
 | :egg: | 支持 |
+| :see_no_evil: | 支持 |
