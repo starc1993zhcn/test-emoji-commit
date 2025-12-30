@@ -45,3 +45,4 @@
 | :wheelchair: | 支持 |
 | :bulb: | 支持 |
 | :beers: | 支持 |
+| :speech_balloon: | 支持 |
