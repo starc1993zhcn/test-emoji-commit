@@ -63,3 +63,4 @@
 | :seedling: | 支持 |
 | :triangular_flag_on_post: | 支持 |
 | :goal_net: | 不支持 |
+| :dizzy: | 支持 |
