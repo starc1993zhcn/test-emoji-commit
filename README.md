@@ -59,3 +59,4 @@
 | :camera_flash: | 不支持 |
 | :alembic: | 不支持 | 支持 |
 | :mag: | 支持 |
+| :label: | 不支持 | 支持 |
