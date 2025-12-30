@@ -35,3 +35,4 @@
 | :pencil2: | 支持 |
 | :poop: | 支持 |
 | :rewind: | 支持 |
+| :twisted_rightwards_arrows: | 支持 |
