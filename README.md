@@ -43,3 +43,4 @@
 | :boom: | 支持 |
 | :bento: | 支持 |
 | :wheelchair: | 支持 |
+| :bulb: | 支持 |
