@@ -39,3 +39,4 @@
 | :package: | 支持 |
 | :alien: | 支持 |
 | :truck: | 支持 |
+| :page_facing_up: | 支持 |
