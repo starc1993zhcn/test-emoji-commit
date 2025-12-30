@@ -46,3 +46,4 @@
 | :bulb: | 支持 |
 | :beers: | 支持 |
 | :speech_balloon: | 支持 |
+| :card_file_box:| 不支持? |
