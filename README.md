@@ -25,3 +25,4 @@
 | :arrow_up: | 支持 |
 | :pushpin: | 支持 |
 | :construction_worker: | 支持 |
+| :chart_with_upwards_trend: | 支持 |
