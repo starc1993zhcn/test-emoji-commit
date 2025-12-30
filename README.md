@@ -52,3 +52,4 @@
 | :busts_in_silhouette: | 支持 |
 | :children_crossing: | 支持 |
 | :building_construction: | 不支持 | 支持 |
+| :iphone: | 支持 |
