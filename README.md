@@ -1,6 +1,6 @@
 # test-emoji-commit
 
-测试在 commit 中支持的 emoji 表情
+测试在 commit 中是否支持对应的 emoji 表情
 
 | 表情 | Gitee |
 | --- | --- |                                                                                          
