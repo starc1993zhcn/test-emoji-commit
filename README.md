@@ -13,3 +13,4 @@
 | :sparkles: | 支持 |
 | :memo: | 支持 |
 | :rocket: | 支持 |
+| :lipstick: | 支持 |
