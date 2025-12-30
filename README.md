@@ -61,3 +61,4 @@
 | :mag: | 支持 |
 | :label: | 不支持 | 支持 |
 | :seedling: | 支持 |
+| :triangular_flag_on_post: | 支持 |
