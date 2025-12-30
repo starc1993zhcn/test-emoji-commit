@@ -9,3 +9,4 @@
 | :zap: | 支持 |
 | :fire: | 支持 |
 | :bug: | 支持 |
+| :ambulance: | 支持 |
