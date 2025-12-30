@@ -69,3 +69,4 @@
 | :adhesive_bandage: | 不支持 |
 | :monocle_face: | 不支持 |
 | :coffin: | 不支持 |
+| :test_tube: | 不支持 |
