@@ -23,3 +23,4 @@
 | :green_heart: | 支持 |
 | :arrow_down: | 支持 |
 | :arrow_up: | 支持 |
+| :pushpin: | 支持 |
