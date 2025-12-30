@@ -15,3 +15,4 @@
 | :rocket: | 支持 |
 | :lipstick: | 支持 |
 | :white_check_mark: | 支持 |
+| :lock: | 支持 |
