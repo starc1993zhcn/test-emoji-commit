@@ -72,3 +72,4 @@
 | :test_tube: | 不支持 |
 | :necktie: | 支持 |
 | :stethoscope: | 支持 |
+| :bricks: | 不支持 |
