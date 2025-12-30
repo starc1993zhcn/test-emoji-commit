@@ -76,3 +76,4 @@
 | :technologist: | 不支持 |
 | :money_with_wings: | 支持 |
 | :thread: | 不支持 |
+| :safety_vest: | 不支持 |
