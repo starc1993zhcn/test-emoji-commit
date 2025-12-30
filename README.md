@@ -18,3 +18,4 @@
 | :lock: | 支持 |
 | :closed_lock_with_key: | 支持 |
 | :bookmark: | 支持 |
+| :rotating_light: | 支持 |
