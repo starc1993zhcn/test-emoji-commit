@@ -32,3 +32,4 @@
 | :wrench: | 支持 |
 | :hammer: | 支持 |
 | :globe_with_meridians: | 支持 |
+| :pencil2: | 支持 |
