@@ -10,3 +10,4 @@
 | :fire: | 支持 |
 | :bug: | 支持 |
 | :ambulance: | 支持 |
+| :sparkles: | 支持 |
