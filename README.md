@@ -70,3 +70,4 @@
 | :monocle_face: | 不支持 |
 | :coffin: | 不支持 |
 | :test_tube: | 不支持 |
+| :necktie: | 支持 |
