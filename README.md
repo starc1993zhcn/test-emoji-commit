@@ -47,3 +47,4 @@
 | :beers: | 支持 |
 | :speech_balloon: | 支持 |
 | :card_file_box:| 不支持 | 支持 |
+| :loud_sound: | 支持 |
