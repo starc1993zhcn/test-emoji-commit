@@ -38,3 +38,4 @@
 | :twisted_rightwards_arrows: | 支持 |
 | :package: | 支持 |
 | :alien: | 支持 |
+| :truck: | 支持 |
