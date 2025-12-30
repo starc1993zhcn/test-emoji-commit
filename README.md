@@ -78,3 +78,4 @@
 | :thread: | 不支持 |
 | :safety_vest: | 不支持 |
 | :airplane: | 支持 |
+| :t-rex: | 不支持 |
