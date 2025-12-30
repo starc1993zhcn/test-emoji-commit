@@ -28,3 +28,4 @@
 | :chart_with_upwards_trend: | 支持 |
 | :recycle: | 支持 |
 | :heavy_plus_sign: | 支持 |
+| :heavy_minus_sign: | 支持 |
