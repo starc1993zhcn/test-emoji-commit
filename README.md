@@ -2,8 +2,8 @@
 
 测试在 commit 中是否支持显示对应的 emoji 表情
 
-| 表情 | Gitee |
-| --- | --- |                                                                                          
+| 表情 | Gitee | Github |
+| --- | --- | --- |                                                                                         
 | :tada: | 支持 |
 | :art: | 支持 |
 | :zap: | 支持 |
@@ -46,4 +46,4 @@
 | :bulb: | 支持 |
 | :beers: | 支持 |
 | :speech_balloon: | 支持 |
-| :card_file_box:| 不支持? |
+| :card_file_box:| 不支持 | 支持 |
